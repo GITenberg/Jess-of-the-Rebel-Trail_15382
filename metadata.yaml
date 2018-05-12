@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '2694'
     url: http://www.gutenberg.org/2009/agents/2694
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15382#Jess-of-the-Rebel-Trail
 gutenberg_issued: '2005-03-16'
 gutenberg_type: Text
 identifiers:
